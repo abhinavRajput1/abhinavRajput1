@@ -1,16 +1,59 @@
-## Hi there 👋
+<pre>
+<span style="color:#00ff9c">
 
-<!--
-**abhinavRajput1/abhinavRajput1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+> Abhinav
 
-Here are some ideas to get you started:
+$ role --active
+> Cybersecurity | Python | Web Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────────────────
+
+$ status
+> online
+> learning
+> building
+> breaking (ethically)
+
+────────────────────────────────────────────────────────
+
+$ current_work
+> Secure web applications
+> Python automation
+> Cybersecurity projects
+
+────────────────────────────────────────────────────────
+
+$ learning_queue
+> Ethical hacking
+> Network security
+> Mobile application security
+> Secure coding practices
+
+────────────────────────────────────────────────────────
+
+$ collaboration --open
+> Open-source security tools
+> EdTech platforms
+> Python & cybersecurity projects
+
+────────────────────────────────────────────────────────
+
+$ ask_me_about
+> Python
+> Web security
+> Cybersecurity fundamentals
+> Penetration testing basics
+
+────────────────────────────────────────────────────────
+
+$ fun_fact
+> I break applications to understand how to defend them
+
+────────────────────────────────────────────────────────
+
+$ exit
+> connection closed
+
+</span>
+</pre>
